@@ -1,0 +1,49 @@
+#fondo{
+width: 400px;
+height: 105px; 
+background-color: #06283D;
+}
+#eje_principal{
+background-color: white;
+border-radius: 20px;
+justify-content: center;
+align-items: center;
+
+}
+#container{
+    justify-content: center;
+}
+
+#encabezado {
+    justify-content: space-between;
+    display: flex;
+}
+
+#weather {
+    justify-content: center;
+    display: row;
+}
+
+
+#clima {
+    justify-content: center;
+    width: 60px;
+    border-radius: 50px;
+    margin-right: 50px;
+
+}
+
+.button{
+    background-color: azure;
+    border-radius: 20%;
+}
+#lupa {
+    border-radius: 20px;
+    margin-right: 50px;
+    background-color: aliceblue;
+
+}
+#maca{
+    width: 20px;
+}
+
